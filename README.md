@@ -1,5 +1,5 @@
 # Parkinson-s-Disease-Prediction
-This project going to predict if a patient is suffering from Parkinson's disease based on the audio/ voice measures.
+This project is to predict if a patient is suffering from Parkinson's disease based on the audio/ voice measures.
 Title: Parkinsons Disease Data Set
 
 Abstract: Oxford Parkinson's Disease Detection Dataset
